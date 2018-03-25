@@ -24,7 +24,7 @@ TGIM (Ramco Systems, Adyar, Chennai, INDIA)
 
 ## Credits:
 
-1. Jennifer George & Vinitha Ramani - For helping us with all meetup related communications to all the people, opening up audience
+1. Jennifer George, Sirsendu Sarkar & Vinitha Ramani - For helping us with all meetup related communications to all the people, opening up audience
 
 2. Nitin Katyal - For getting his team to help us out with Parking, onboarding people inside, security, samosas, coffee & tea.
 
